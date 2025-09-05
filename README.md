@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Navneet Dhillon 👋
 
-<!--
-**Navneet2005-byte/Navneet2005-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BDS Data Science student @ SP Jain, Sydney**  
+Focused on Python, Pandas, Matplotlib, and SQL. Sharing hands-on mini projects, exercises, and data exploration notebooks.
 
-Here are some ideas to get you started:
+## 🔹 What you’ll find here
+- **Python practice:** basics, functions, loops, data structures  
+- **NumPy:** arrays, slicing, reshaping, math operations  
+- **Pandas & EDA:** data cleaning, filtering, grouping, missing value handling  
+- **Matplotlib:** visualizations with line, bar, scatter, histogram, styling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Connect with me
+- LinkedIn: https://linkedin.com/in/<navneet-dhillon-247381273>  
+- Email: navisd2502@gmail.com
+
+---
+
+### Commit style
+- `feat: add pandas groupby example`  
+- `fix: handle missing values in EDA notebook`  
+- `docs: update README with plot screenshots`  
+
+> Always open to feedback and collaboration on projects!
