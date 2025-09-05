@@ -10,7 +10,7 @@ Focused on Python, Pandas, Matplotlib, and SQL. Sharing hands-on mini projects, 
 - **Matplotlib:** visualizations with line, bar, scatter, histogram, styling  
 
 ## 📌 Connect with me
-- LinkedIn: https://linkedin.com/in/<navneet-dhillon-247381273>  
+- LinkedIn: https://linkedin.com/in/navneet-dhillon-247381273
 - Email: navisd2502@gmail.com
 
 ---
